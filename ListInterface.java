@@ -1,4 +1,4 @@
-package HW5;
+package HW12;
 /** An interface for the ADT list.
 * Entries in the list have positions that begin with 1.
 * 
